@@ -83,6 +83,8 @@ const resetGame = () => {
         draw.classList.add("hide");
         enableButtons();
     }
+    playerTurn = true;
+    count = 0;
 }
 
 // Displaying winner messager for the winner
