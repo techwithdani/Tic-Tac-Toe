@@ -36,3 +36,5 @@ This is a basic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Two playe
 4. Commit your changes (git commit -am 'Add new feature').
 5. Push to the branch (git push origin feature-branch).
 6. Create a new Pull Request.
+
+Note: This game is only compatible on 1920 x 1080 display. Responsiveness is only added for two devices. Those devices can be accessed from responsive-style.css file.
