@@ -1,0 +1,47 @@
+/* Responsive properties */
+
+/* Phone (Samsung Galaxy S20 ultra) */
+@media screen and (max-width: 412px){
+
+    #main-heading{
+        font-size: 50px;
+    }
+
+    .game-container{
+        width: 100%;
+        height: 300px;
+    }
+
+    .game-box{
+        width: 100%;
+        height: 300px;
+    }
+
+    .button{
+        height: 120px;
+        width: 120px;
+        font-size: 60px;
+    }
+
+    #reset-button{
+        margin-bottom: -650px;
+        margin-right: -135px;
+    }
+
+    #footer{
+        margin-top: 250px;
+    }
+}
+
+/* iPad Mini*/
+@media screen and (max-width: 768px) {
+
+    #reset-button{
+        margin-bottom: -800px;
+        margin-right: 40px;
+    }
+
+    #footer{
+        margin-top: 100px;
+    }
+}
